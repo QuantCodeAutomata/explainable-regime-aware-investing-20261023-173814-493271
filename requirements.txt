@@ -1,0 +1,10 @@
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.14.1
+scikit-learn==1.5.1
+hmmlearn>=0.3.2
+cvxpy>=1.7
+matplotlib
+requests
+python-dotenv
+pytest

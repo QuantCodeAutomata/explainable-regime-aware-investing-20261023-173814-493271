@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.env
+
+# Raw downloaded market data (never committed; re-downloaded by data/data_loader.py)
+results/*_price_panel.csv

@@ -1,0 +1,10 @@
+{
+  "sharpe_ratio": 1.4651037499754498,
+  "annualized_return": 0.12775673856431793,
+  "annualized_vol": 0.08719978948006839,
+  "max_drawdown": -0.0879355743828728,
+  "avg_daily_turnover": 0.0007443314214524422,
+  "turnover_q95": 1.2856411032465387e-05,
+  "avg_effective_n_positions": 3.670060284371365,
+  "n_days": 875
+}
